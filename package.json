@@ -1,7 +1,7 @@
-{
+ {
   "name": "crypto-metrics",
   "version": "1.0.0",
-  "type":"commonjs",
+  
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -12,6 +12,7 @@
     "axios": "^1.13.1",
     "cors": "^2.8.5",
     "dotenv": "^17.2.3",
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "node-fetch": "^3.3.2"
   }
 }
